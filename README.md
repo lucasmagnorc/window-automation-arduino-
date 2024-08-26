@@ -1,5 +1,4 @@
-# window_automated_with_arduino
-
+# window automation arduino 
 ## What's it?
 
 This is a project to automated a window with arduino. The objective is help peoples with some kind of deficiency.
